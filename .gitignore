@@ -1,0 +1,6 @@
+# Ignore root folders
+/assignments/*.txt
+/assignments/*.md
+/notebooks
+/slides
+README.md
